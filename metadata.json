@@ -1,0 +1,6 @@
+{
+  "name": "Ethereal 3D Anime Tic-Tac-Toe",
+  "description": "A visually stunning 3x3x3 3D Tic-Tac-Toe game featuring dynamically generated anime backgrounds using Gemini Image Generation and a fully interactive 3D board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
